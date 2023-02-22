@@ -1,6 +1,6 @@
 # Note-Taker
 
-This is just quite simply a note taking app in your browser, that you can use to save and delete notes.
+This is just quite simply a note taking app in your browser, that you can use to save and delete notes. If you would like to view the deployed verison of this app you can do so here https://my-note-taker-project.herokuapp.com/
 
 <img width="960" alt="front page" src="https://user-images.githubusercontent.com/112913338/220241895-5714a997-61af-435e-a33f-60349bbf0e68.PNG">
 
